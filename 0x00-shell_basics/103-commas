@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -apm1 --group-directories-first sort -dfk1.1
+ls -am --file-type
